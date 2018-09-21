@@ -1,0 +1,47 @@
+.box-form{
+	width:50%;
+	margin-left: 250px;
+	padding: 35px;
+	background-color: #fff;
+}
+.box-form-header .box-title {
+    display: inline-block;
+    font-size: 35px;
+    margin: 0;
+    line-height: 0;
+}
+table tbody tr td img {
+    width: 50px;
+    height: 55px;
+}
+.skin-blue .box .sidebar-menu >li:hover  >a,
+.skin-blue .box	.sidebar-menu > li.active > a, 
+.skin-blue .box	.sidebar-menu > li.menu-open > a {
+	background-color: #3c8dbc;
+	color: #fff
+}
+.skin-blue .box .sidebar-menu .treeview-menu > li.active > a,
+.skin-blue .box .sidebar-menu .treeview-menu > li > a:hover {
+  color: #000000;
+  background-color: #ddd ;
+}
+
+
+.skin-blue .box .sidebar-menu .treeview-menu > li{
+	background-color: #fff ;
+}
+
+.skin-blue .box .sidebar-menu .treeview > li> a{
+	display: inline-block;
+}
+
+
+
+
+.navbar-nav>.user-menu>.dropdown-menu {
+width: 80px;
+}
+.navbar-nav>.user-menu>.dropdown-menu>.user-footer {
+    background-color: #f9f9f9;
+    padding: 5px;
+    }

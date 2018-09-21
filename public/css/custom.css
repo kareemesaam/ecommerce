@@ -1,0 +1,22 @@
+/*/** Your theme modifications here **/
+/*#content .product .text h3 {
+    height: 15px;
+    margin-top: 30px;
+}
+
+#content .product .text{
+	margin-top: 325px
+}*/
+#content #basket .delete {
+	background-color: #fff;
+	    border-width: 0px;
+}
+
+#content #productMain {
+    background-color: #fff;
+    
+}
+#content #productMain #mainImage >img{
+   height: 530px; 
+    
+}
